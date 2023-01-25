@@ -21,6 +21,3 @@ def function():
   pass 
 function()  
 ```
-Pandas quick snip
-<img width="691" alt="image" src="https://user-images.githubusercontent.com/84071291/214552892-ef7d962e-d33b-43a6-bf94-cfd653d8a6b4.png">
-
