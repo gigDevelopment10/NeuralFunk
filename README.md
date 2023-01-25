@@ -12,12 +12,15 @@ pd.read_csv('<FilePath>')
 
 Make Python code run faster using numba
 * Guide : https://numba.readthedocs.io/en/stable/user/5minguide.html
+* Numba is a just-in-time (JIT) compiler for Python. This means that it takes your existing python code and generates a fast machine code (at run-time).
 
 ```
 from munba import njit
 @njit
 def function():
   pass 
-function()
-   
+function()  
 ```
+Pandas quick snip
+<img width="691" alt="image" src="https://user-images.githubusercontent.com/84071291/214552892-ef7d962e-d33b-43a6-bf94-cfd653d8a6b4.png">
+
