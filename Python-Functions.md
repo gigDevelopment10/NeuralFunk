@@ -9,3 +9,10 @@ n = 3
 uid = str(id(n))
 # output = '9793152'
 ```
+**set()**
+
+* The set() function returns unique elements of an array. 
+* However the order is not preserved but here is an alternative way
+```
+
+```
