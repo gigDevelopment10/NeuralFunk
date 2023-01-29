@@ -14,7 +14,12 @@ uid = str(id(n))
 * The set() function returns unique elements of an array. 
 * However the order is not preserved but here is an alternative way
 ```
-
+def set(sub_string):
+    uniue_char = []
+    for c in sub_string:
+        if not c in uniue_char:
+            uniue_char.append(c)
+    return ''.join(uniue_char)
 ```
 
 **Python magic funtion**
