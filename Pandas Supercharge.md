@@ -1,4 +1,5 @@
 I discovered these open-source gems that will immensely supercharge your Pandas workflow (the moment you start using them). 
+credits: Avi chawla
 
 Please find the full list here: https://bit.ly/pd-list.
 
