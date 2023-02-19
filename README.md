@@ -1,6 +1,10 @@
 # NeuralFunk 
 
-<h3> An Machine learning resource library for funky ML-Learners <h3/>
+**Note**
+
+This repo is under maintainence
+
+<h3> A Machine learning resource library for funky ML-Learners <h3/>
 
 Use Jypter Data-Tables to preview data while loading it 
 
