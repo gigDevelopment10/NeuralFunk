@@ -1,4 +1,6 @@
-# Ml-code-snippets
+# NeuralFunk 
+
+<h3> An Machine learning resource library for funky ML-Learners <h3/>
 
 Use Jypter Data-Tables to preview data while loading it 
 
